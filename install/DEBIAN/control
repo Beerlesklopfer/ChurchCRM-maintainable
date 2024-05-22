@@ -2,7 +2,7 @@ Package: churchcrm-{{VERSION}}
 Version: 5.8.0
 Maintainer: ChrurchCRM <info@churchcrm.io>
 Architecture: all
-Dependencies: nginx|apache mysql-server|mariadb-server php-fpm php-curl php-cli php-dev php-gd php-intl php-json php-mysql php-bcmath php-mbstring php-soap php-xml php-zip
+Depends: nginx | apache, mysql-server | mariadb-server, php-fpm, php-curl, php-cli, php-dev, php-gd, php-intl, php-json, php-mysql, php-bcmath, php-mbstring, php-soap, php-xml, php-zip, ssl-cert
 Homepage: https://churchcrm.io/index.html
 Description: ChurchCRM is an open-source church management system designed to help congregations manage their members, track contributions, and streamline communication.
 

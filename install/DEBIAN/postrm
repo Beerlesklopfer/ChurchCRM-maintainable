@@ -1,1 +1,1 @@
-rm -f /usr/share/churchcrm/current /etc/nginx/sites-available/churchcrm.conf /etc/nginx/sites-enabled/99-churchcrm.conf
+rm -f /usr/share/churchcrm/current /etc/nginx/sites-available/churchcrm.conf /etc/nginx/sites-enabled/99-churchcrm.conf 

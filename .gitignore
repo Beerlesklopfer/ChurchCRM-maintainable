@@ -1,3 +1,9 @@
+## Package Management
+ChurchCRM-5.8.0
+ChurchCRM-5.8.0.deb
+ChurchCRM-5.8.0.rpm
+ChurchCRM-5.8.0.tar.xz
+
 ## Directory-based project format:
 .vscode/
 .idea/
